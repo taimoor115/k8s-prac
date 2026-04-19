@@ -1,0 +1,21 @@
+1-k8s-intro (done)
+2-components (done)
+3-benefits (done)
+4-create-debug-pod (done)
+5-yaml (done)
+6-complete-deployment (done)
+7-namespaces (done)
+8-ingress (done)
+9-Helm (done)
+10-Networking (done)
+11-Volumes, Persistent Volume (done)
+12-ConfigMap-Secret-As-Volumes
+13-Private-Docker-Registry
+14-StatefulSet (done)
+18-Operator (done)
+20-Services (started)
+-------------------------------------------
+15-Prometheus (Ignore)
+16-k8s-on-cloud (Ignore)
+17-LKE-using-Helm (Ignore)
+19-Prometheus-Monitoring (Ignore)

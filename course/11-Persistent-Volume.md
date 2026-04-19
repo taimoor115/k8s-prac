@@ -107,4 +107,4 @@ provisioner: kubernetes.io/aws-ebs
 parameters:
     type: io1
     iopsPerGB: "10"
-    fsType: ext4 
+    fsType: ext4
